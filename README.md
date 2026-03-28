@@ -1,4 +1,4 @@
-# Hi there, My Name is Ryleigh Harvey 👋
+# Hi there, My Name is Ryleigh Harvey <3
 
 - 🎓 I'm currently pursuing my Master's in Data Analytics at the University of Houston–Downtown  
 - 📊 Interested in data visualization, experimentation, and storytelling with data  
