@@ -8,7 +8,7 @@
 ## Past Work
 - Under graduate Studies at Baylor University (Studio Art  and Data Science)
 - Machine learning in Python
-- Algorithms and Data Structures based in Pyton
+- Algorithms and Data Structures based in Python
 
 ---
  
